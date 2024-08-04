@@ -5,48 +5,16 @@
       "weight": 8,
       "entries": [
         {
-          "count": 4,
+          "count": 60,
           "rarities": [
             "Common"
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
-            "Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 3,
-      "entries": [
-        {
-          "count": 4,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Super Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 1,
-      "entries": [
-        {
-          "count": 4,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
+            "Rare",
+            "Super Rare",
             "Ultra Rare",
             "Ultimate Rare"
           ]
