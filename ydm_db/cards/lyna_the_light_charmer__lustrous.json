@@ -1,17 +1,17 @@
 {
   "id": 9839945,
-  "name": "Lyna the Light Charmer, Lustrous",
+  "name": "조요의 광령사 라이너",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters, including a LIGHT monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 LIGHT monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 LIGHT monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Lyna the Light Charmer, Lustrous\" once per turn.",
+  "text": "빛 속성 몬스터를 포함하는 몬스터 2장\n이 카드명은 룰상 \"빙의장착\" 카드로도 취급한다. 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다.\n①: 상대 묘지의 빛 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다.\n②: 링크 소환한 이 카드가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 수비력 1500 이하인 빛 속성 몬스터 1장을 패에 넣는다.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9839945.jpg"
   ],
   "type": "Monster",
-  "attribute": "LIGHT",
+  "attribute": "빛",
   "atk": 1850,
-  "species": "Spellcaster",
-  "monster_type": "Link",
+  "species": "마법사족",
+  "monster_type": "링크",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,

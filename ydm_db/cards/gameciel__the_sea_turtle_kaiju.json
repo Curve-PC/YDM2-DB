@@ -1,16 +1,16 @@
 {
   "id": 55063751,
-  "name": "Gameciel, the Sea Turtle Kaiju",
+  "name": "해귀파괴수 가메시엘",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When your opponent activates a card or effect, except \"Gameciel, the Sea Turtle Kaiju\" (Quick Effect): You can remove 2 Kaiju Counters from anywhere on the field; negate the activation, and if you do, banish that card.",
+  "text": "①: 이 카드는 상대 필드의 몬스터 1장을 릴리스하고, 패에서 상대 필드에 공격 표시로 특수 소환할 수 있다.\n②: 상대 필드에 \"파괴수\" 몬스터가 존재할 경우, 이 카드는 패에서 공격 표시로 특수 소환할 수 있다.\n③: \"파괴수\" 몬스터는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다.\n④: 상대가 \"해귀파괴수 가메시엘\" 이외의 마법 / 함정 / 몬스터의 효과를 발동했을 때, 자신 / 상대 필드의 파괴수 카운터를 2개 제거하고 발동할 수 있다. 그 발동을 무효로 하고 제외한다.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55063751.jpg"
   ],
   "type": "Monster",
-  "attribute": "WATER",
+  "attribute": "물",
   "atk": 2200,
-  "species": "Aqua",
+  "species": "물족",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",

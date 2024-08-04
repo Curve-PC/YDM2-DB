@@ -5,17 +5,33 @@
       "weight": 1,
       "entries": [
         {
-          "count": 45,
+          "count": 30,
           "rarities": [
             "Super Rare"
           ]
         },
         {
-          "count": 30,
+          "count": 9,
           "rarities": [
-            "Ultra Rare",
-            "Secret Rare",
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 13,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 6,
+          "rarities": [
             "Ultimate Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Prismatic Secret Rare"
           ]
         }
       ]

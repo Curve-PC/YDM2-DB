@@ -1,17 +1,17 @@
 {
   "id": 27548199,
-  "name": "Borreload Savage Dragon",
+  "name": "바렐로드 새비지 드래곤",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on this card equal to that Link Monster's Link Rating. This card gains ATK equal to half the ATK of the monster equipped to it by its effect. When your opponent activates a card or effect (Quick Effect): You can remove 1 Borrel Counter from this card; negate the activation. You can only use this effect of \"Borreload Savage Dragon\" once per turn.",
+  "text": "튜너 + 튜너 이외의 몬스터 1장 이상\n이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다.\n①: 이 카드가 싱크로 소환에 성공했을 경우에 발동할 수 있다. 자신 묘지에서 링크 몬스터 1장을 골라, 장착 카드로 취급하여 이 카드에 장착하고, 그 링크 마커의 수만큼 이 카드에 바렐 카운터를 놓는다.\n②: 이 카드의 공격력은, 이 카드의 효과로 장착한 몬스터의 공격력의 절반 올린다.\n③: 상대 효과가 발동했을 때, 이 카드의 바렐 카운터를 1개 제거하고 발동할 수 있다. 그 발동을 무효로 한다.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27548199.jpg"
   ],
   "type": "Monster",
-  "attribute": "DARK",
+  "attribute": "어둠",
   "atk": 3000,
-  "species": "Dragon",
-  "monster_type": "Synchro",
+  "species": "드래곤족",
+  "monster_type": "싱크로",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,

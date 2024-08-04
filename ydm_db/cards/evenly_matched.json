@@ -1,9 +1,9 @@
 {
   "id": 15693423,
-  "name": "Evenly Matched",
+  "name": "길항승부",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. If you control no cards, you can activate this card from your hand.",
+  "text": "자신 필드에 카드가 존재하지 않을 경우, 이 카드의 발동은 패에서도 할 수 있다.\n①: 상대 필드의 카드의 수가 자신 필드의 카드보다 많을 경우, 자신 / 상대의 배틀 페이즈 종료시에 발동할 수 있다. 자신 필드의 카드의 수와 같아지도록, 상대는 자신 필드의 카드를 뒷면으로 제외해야 한다.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15693423.jpg"
   ],

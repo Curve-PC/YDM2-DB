@@ -1,17 +1,17 @@
 {
   "id": 73642296,
-  "name": "Ghost Belle & Haunted Mansion",
+  "name": "저택 와라시",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that activation.\n? Add a card(s) from the GY to the hand, Deck, and/or Extra Deck.\n? Special Summon a Monster Card(s) from the GY.\n? Banish a card(s) from the GY.\nYou can only use this effect of \"Ghost Belle & Haunted Mansion\" once per turn.",
+  "text": "이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다.\n①: 이하의 어느 효과를 포함하는 마법 / 함정 / 몬스터의 효과가 발동했을 때, 이 카드를 패에서 버리고 발동할 수 있다. 그 발동을 무효로 한다.\n●묘지에서 카드를 패 / 덱 / 엑스트라 덱에 넣는 효과\n●묘지에서 몬스터를 특수 소환하는 효과\n●묘지에서 카드를 제외하는 효과",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73642296.jpg",
     "https://images.ygoprodeck.com/images/cards/73642297.jpg"
   ],
   "type": "Monster",
-  "attribute": "EARTH",
+  "attribute": "땅",
   "atk": 0,
-  "species": "Zombie",
+  "species": "언데드족",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",

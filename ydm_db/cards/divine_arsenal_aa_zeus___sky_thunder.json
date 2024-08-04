@@ -1,17 +1,17 @@
 {
   "id": 90448279,
-  "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+  "name": "네가로기어 아제우스",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 12 monsters\nOnce per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material.",
+  "text": "레벨 12 몬스터 × 2\n\"네가로기어 아제우스\"는, 엑시즈 몬스터가 전투를 실행한 턴에 1번, 자신 필드의 엑시즈 몬스터 위에 겹쳐 엑시즈 소환할 수도 있다.\n①: 자신 / 상대 턴에, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 필드의 다른 카드를 전부 묘지로 보낸다.\n②: 1턴에 1번, 자신 필드의 다른 카드가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 패 / 덱 / 엑스트라 덱에서 카드 1장을 고르고, 이 카드의 엑시즈 소재로 한다.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90448279.jpg"
   ],
   "type": "Monster",
-  "attribute": "LIGHT",
+  "attribute": "빛",
   "atk": 3000,
-  "species": "Machine",
-  "monster_type": "Xyz",
+  "species": "기계족",
+  "monster_type": "엑시즈",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,

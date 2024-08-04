@@ -1,17 +1,17 @@
 {
   "id": 94145021,
-  "name": "Droll & Lock Bird",
+  "name": "드롤 & 로크 버드",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
+  "text": "①: 자신 / 상대 턴에, 상대가 드로우 페이즈 이외로 덱에서 카드를 패에 넣었을 경우, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 이 턴에, 서로 덱에서 카드를 패에 넣을 수 없다.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94145021.jpg",
     "https://images.ygoprodeck.com/images/cards/94145022.jpg"
   ],
   "type": "Monster",
-  "attribute": "WIND",
+  "attribute": "바람",
   "atk": 0,
-  "species": "Spellcaster",
+  "species": "마법사족",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",

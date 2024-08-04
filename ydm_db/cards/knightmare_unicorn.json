@@ -1,17 +1,18 @@
 {
   "id": 38342335,
-  "name": "Knightmare Unicorn",
+  "name": "트로이메어 유니콘",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 card on the field; return it to the Deck, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Unicorn\" once per turn. While any co-linked \"Knightmare\" monsters are on the field, for your normal draw in your Draw Phase, draw 1 card for each different card name among those co-linked \"Knightmare\" monsters, instead of drawing just 1 card.",
+  "text": "카드명이 다른 몬스터 2장 이상\n이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다.\n①: 이 카드를 링크 소환했을 경우, 패를 1장 버리고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 덱으로 되돌린다. 이 효과의 발동시에 이 카드가 상호 링크 상태였을 경우, 추가로 자신은 1장 드로우할 수 있다.\n②: 상호 링크 상태의 \"트로이메어\" 몬스터가 존재하는 한, 자신 드로우 페이즈의 일반 드로우의 매수는, 그 \"트로이메어\" 몬스터의 종류의 수가 된다.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/38342335.jpg"
+    "https://images.ygoprodeck.com/images/cards/38342335.jpg",
+    "https://images.ygoprodeck.com/images/cards/38342336.jpg"
   ],
   "type": "Monster",
-  "attribute": "DARK",
+  "attribute": "어둠",
   "atk": 2200,
-  "species": "Fiend",
-  "monster_type": "Link",
+  "species": "악마족",
+  "monster_type": "링크",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
