@@ -2,10 +2,10 @@
   "name": "booster_pack_old_with_ghost_rare",
   "pulls": [
     {
-      "weight": 924,
+      "weight": 1,
       "entries": [
         {
-          "count": 60,
+          "count": 30,
           "rarities": [
             "Common",
             "Short Print",
@@ -13,26 +13,7 @@
           ]
         },
         {
-          "count": 15,
-          "rarities": [
-            "Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 276,
-      "entries": [
-        {
-          "count": 45,
-          "rarities": [
-            "Common",
-            "Short Print",
-            "Super Short Print"
-          ]
-        },
-        {
-          "count": 15,
+          "count": 25,
           "rarities": [
             "Rare"
           ]
@@ -42,81 +23,13 @@
           "rarities": [
             "Super Rare"
           ]
-        }
-      ]
-    },
-    {
-      "weight": 115,
-      "entries": [
-        {
-          "count": 45,
-          "rarities": [
-            "Common",
-            "Short Print",
-            "Super Short Print"
-          ]
         },
         {
-          "count": 15,
+          "count": 5,
           "rarities": [
-            "Rare"
-          ]
-        },
-        {
-          "count": 15,
-          "rarities": [
-            "Ultra Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 60,
-      "entries": [
-        {
-          "count": 45,
-          "rarities": [
-            "Common",
-            "Short Print",
-            "Super Short Print"
-          ]
-        },
-        {
-          "count": 15,
-          "rarities": [
-            "Rare"
-          ]
-        },
-        {
-          "count": 15,
-          "rarities": [
+            "Ultra Rare",
             "Secret Rare",
             "Ultimate Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 5,
-      "entries": [
-        {
-          "count": 45,
-          "rarities": [
-            "Common",
-            "Short Print",
-            "Super Short Print"
-          ]
-        },
-        {
-          "count": 15,
-          "rarities": [
-            "Rare"
-          ]
-        },
-        {
-          "count": 15,
-          "rarities": [
-            "Ghost Rare"
           ]
         }
       ]

@@ -1,0 +1,21 @@
+{
+  "id": 100000022,
+  "name": "Ancient Red-Eyes B Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "One of the ancient Dragon gods said to have been lost to time.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/vpj6xk2kmqqrse2089tu5/100000022.jpeg?rlkey=mcmb8ku4uwjfidjaiiedc85h0&st=r4f1c858&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Omni/Dragon",
+  "monster_type": "Normal",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

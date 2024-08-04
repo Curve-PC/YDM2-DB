@@ -2,63 +2,33 @@
   "name": "turbo_pack",
   "pulls": [
     {
-      "weight": 27,
-      "entries": [
-        {
-          "count": 3,
-          "rarities": [
-            "Common"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 16,
-      "entries": [
-        {
-          "count": 2,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 4,
-      "entries": [
-        {
-          "count": 2,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Super Rare"
-          ]
-        }
-      ]
-    },
-    {
       "weight": 1,
       "entries": [
         {
-          "count": 2,
+          "count": 30,
           "rarities": [
-            "Common"
+            "Common",
+            "Short Print",
+            "Super Short Print"
           ]
         },
         {
-          "count": 1,
+          "count": 25,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 15,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 5,
           "rarities": [
             "Ultra Rare",
+            "Secret Rare",
             "Ultimate Rare"
           ]
         }

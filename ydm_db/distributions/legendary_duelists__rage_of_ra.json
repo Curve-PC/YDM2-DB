@@ -2,69 +2,34 @@
   "name": "legendary_duelists__rage_of_ra",
   "pulls": [
     {
-      "weight": 192,
-      "entries": [
-        {
-          "count": 4,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 56,
-      "entries": [
-        {
-          "count": 4,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Super Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 39,
-      "entries": [
-        {
-          "count": 4,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Ultra Rare"
-          ]
-        }
-      ]
-    },
-    {
       "weight": 1,
       "entries": [
         {
-          "count": 4,
+          "count": 30,
           "rarities": [
-            "Common"
+            "Common",
+            "Short Print",
+            "Super Short Print"
           ]
         },
         {
-          "count": 1,
+          "count": 25,
           "rarities": [
-            "Ghost Rare"
+            "Rare"
+          ]
+        },
+        {
+          "count": 15,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 5,
+          "rarities": [
+            "Ultra Rare",
+            "Secret Rare",
+            "Ultimate Rare"
           ]
         }
       ]

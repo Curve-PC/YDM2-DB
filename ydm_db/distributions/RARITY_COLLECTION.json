@@ -1,0 +1,24 @@
+{
+  "name": "rarity_collection",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 45,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 30,
+          "rarities": [
+            "Ultra Rare",
+            "Secret Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

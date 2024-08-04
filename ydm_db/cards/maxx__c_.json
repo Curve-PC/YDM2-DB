@@ -1,16 +1,16 @@
 {
   "id": 23434538,
-  "name": "Maxx \"C\"",
+  "name": "증식의 G",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+  "text": "이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다.\n  ①: 자신 / 상대 턴에, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 이 턴 중에, 이하의 효과를 적용한다.\n  ●상대가 몬스터를 특수 소환할 때마다, 자신은 1장 드로우한다.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23434538.jpg"
   ],
   "type": "Monster",
-  "attribute": "EARTH",
+  "attribute": "땅",
   "atk": 500,
-  "species": "Insect",
+  "species": "곤충족",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",

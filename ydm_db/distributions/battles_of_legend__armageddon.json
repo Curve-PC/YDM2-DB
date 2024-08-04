@@ -2,42 +2,34 @@
   "name": "battles_of_legend__armageddon",
   "pulls": [
     {
-      "weight": 575,
+      "weight": 1,
       "entries": [
         {
-          "count": 60,
+          "count": 30,
           "rarities": [
-            "Ultra Rare"
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 25,
+          "rarities": [
+            "Rare"
           ]
         },
         {
           "count": 15,
           "rarities": [
-            "Secret Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 1,
-      "entries": [
-        {
-          "count": 60,
-          "rarities": [
-            "Ultra Rare"
+            "Super Rare"
           ]
         },
         {
-          "count": 14,
+          "count": 5,
           "rarities": [
-            "Secret Rare"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "10000 Secret Rare",
-            "Starlight Rare"
+            "Ultra Rare",
+            "Secret Rare",
+            "Ultimate Rare"
           ]
         }
       ]

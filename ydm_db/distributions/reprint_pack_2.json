@@ -2,69 +2,34 @@
   "name": "reprint_pack_2",
   "pulls": [
     {
-      "weight": 26,
-      "entries": [
-        {
-          "count": 11,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 6,
-      "entries": [
-        {
-          "count": 11,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Super Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 3,
-      "entries": [
-        {
-          "count": 11,
-          "rarities": [
-            "Common"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Ultra Rare"
-          ]
-        }
-      ]
-    },
-    {
       "weight": 1,
       "entries": [
         {
-          "count": 11,
+          "count": 30,
           "rarities": [
-            "Common"
+            "Common",
+            "Short Print",
+            "Super Short Print"
           ]
         },
         {
-          "count": 1,
+          "count": 25,
           "rarities": [
-            "Secret Rare"
+            "Rare"
+          ]
+        },
+        {
+          "count": 15,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 5,
+          "rarities": [
+            "Ultra Rare",
+            "Secret Rare",
+            "Ultimate Rare"
           ]
         }
       ]

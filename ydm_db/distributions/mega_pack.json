@@ -5,33 +5,31 @@
       "weight": 1,
       "entries": [
         {
-          "count": 7,
+          "count": 30,
           "rarities": [
-            "Common"
+            "Common",
+            "Short Print",
+            "Super Short Print"
           ]
         },
         {
-          "count": 1,
+          "count": 25,
           "rarities": [
             "Rare"
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Super Rare"
           ]
         },
         {
-          "count": 1,
+          "count": 5,
           "rarities": [
-            "Ultra Rare"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Secret Rare"
+            "Ultra Rare",
+            "Secret Rare",
+            "Ultimate Rare"
           ]
         }
       ]

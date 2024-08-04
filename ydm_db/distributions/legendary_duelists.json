@@ -2,52 +2,34 @@
   "name": "legendary_duelists",
   "pulls": [
     {
-      "weight": 24,
+      "weight": 1,
       "entries": [
         {
-          "count": 4,
+          "count": 30,
           "rarities": [
-            "Common"
+            "Common",
+            "Short Print",
+            "Super Short Print"
           ]
         },
         {
-          "count": 1,
+          "count": 25,
           "rarities": [
             "Rare"
           ]
-        }
-      ]
-    },
-    {
-      "weight": 7,
-      "entries": [
-        {
-          "count": 4,
-          "rarities": [
-            "Common"
-          ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Super Rare"
           ]
-        }
-      ]
-    },
-    {
-      "weight": 5,
-      "entries": [
-        {
-          "count": 4,
-          "rarities": [
-            "Common"
-          ]
         },
         {
-          "count": 1,
+          "count": 5,
           "rarities": [
-            "Ultra Rare"
+            "Ultra Rare",
+            "Secret Rare",
+            "Ultimate Rare"
           ]
         }
       ]

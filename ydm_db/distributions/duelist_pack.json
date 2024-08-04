@@ -2,20 +2,33 @@
   "name": "duelist_pack",
   "pulls": [
     {
-      "weight": 8,
+      "weight": 1,
       "entries": [
         {
-          "count": 60,
+          "count": 30,
           "rarities": [
-            "Common"
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 25,
+          "rarities": [
+            "Rare"
           ]
         },
         {
           "count": 15,
           "rarities": [
-            "Rare",
-            "Super Rare",
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 5,
+          "rarities": [
             "Ultra Rare",
+            "Secret Rare",
             "Ultimate Rare"
           ]
         }

@@ -1,17 +1,17 @@
 {
   "id": 14558127,
-  "name": "Ash Blossom & Joyous Spring",
+  "name": "하루 우라라",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n? Add a card from the Deck to the hand.\n? Special Summon from the Deck.\n? Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
+  "text": "이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다.\n①: 이하의 어느 효과를 포함하는 마법 / 함정 / 몬스터의 효과가 발동했을 때, 이 카드를 패에서 버리고 발동할 수 있다. 그 효과를 무효로 한다.\n●덱에서 카드를 패에 넣는 효과\n●덱에서 몬스터를 특수 소환하는 효과\n●덱에서 카드를 묘지로 보내는 효과",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14558127.jpg",
     "https://images.ygoprodeck.com/images/cards/14558128.jpg"
   ],
   "type": "Monster",
-  "attribute": "FIRE",
+  "attribute": "불",
   "atk": 0,
-  "species": "Zombie",
+  "species": "언데드족",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",

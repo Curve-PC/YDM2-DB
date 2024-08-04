@@ -2,10 +2,10 @@
   "name": "booster_pack_without_rare",
   "pulls": [
     {
-      "weight": 9,
+      "weight": 1,
       "entries": [
         {
-          "count": 60,
+          "count": 30,
           "rarities": [
             "Common",
             "Short Print",
@@ -13,13 +13,19 @@
           ]
         },
         {
-          "count": 14,
+          "count": 25,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 15,
           "rarities": [
             "Super Rare"
           ]
         },
         {
-          "count": 1,
+          "count": 5,
           "rarities": [
             "Ultra Rare",
             "Secret Rare",

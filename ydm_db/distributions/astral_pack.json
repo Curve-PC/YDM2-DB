@@ -2,36 +2,33 @@
   "name": "astral_pack",
   "pulls": [
     {
-      "weight": 2,
-      "entries": [
-        {
-          "count": 2,
-          "rarities": [
-            "Common",
-            "Short Print"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Super Rare"
-          ]
-        }
-      ]
-    },
-    {
       "weight": 1,
       "entries": [
         {
-          "count": 2,
+          "count": 30,
           "rarities": [
             "Common",
-            "Short Print"
+            "Short Print",
+            "Super Short Print"
           ]
         },
         {
-          "count": 1,
+          "count": 25,
           "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 15,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 5,
+          "rarities": [
+            "Ultra Rare",
+            "Secret Rare",
             "Ultimate Rare"
           ]
         }
