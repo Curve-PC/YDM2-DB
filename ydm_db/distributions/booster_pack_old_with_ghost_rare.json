@@ -5,7 +5,7 @@
       "weight": 924,
       "entries": [
         {
-          "count": 8,
+          "count": 60,
           "rarities": [
             "Common",
             "Short Print",
@@ -13,7 +13,7 @@
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Rare"
           ]
@@ -24,7 +24,7 @@
       "weight": 276,
       "entries": [
         {
-          "count": 7,
+          "count": 45,
           "rarities": [
             "Common",
             "Short Print",
@@ -32,13 +32,13 @@
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Rare"
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Super Rare"
           ]
@@ -49,7 +49,7 @@
       "weight": 115,
       "entries": [
         {
-          "count": 7,
+          "count": 45,
           "rarities": [
             "Common",
             "Short Print",
@@ -57,13 +57,13 @@
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Rare"
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Ultra Rare"
           ]
@@ -74,7 +74,7 @@
       "weight": 60,
       "entries": [
         {
-          "count": 7,
+          "count": 45,
           "rarities": [
             "Common",
             "Short Print",
@@ -82,13 +82,13 @@
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Rare"
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Secret Rare",
             "Ultimate Rare"
@@ -100,7 +100,7 @@
       "weight": 5,
       "entries": [
         {
-          "count": 7,
+          "count": 45,
           "rarities": [
             "Common",
             "Short Print",
@@ -108,13 +108,13 @@
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Rare"
           ]
         },
         {
-          "count": 1,
+          "count": 15,
           "rarities": [
             "Ghost Rare"
           ]
